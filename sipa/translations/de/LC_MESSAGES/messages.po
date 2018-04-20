@@ -557,10 +557,22 @@ msgstr ""
 msgid "Zahlungsdetails"
 msgstr ""
 
+msgid "Beitrag für"
+msgstr ""
+
+msgid "Monat(e) zahlen."
+msgstr ""
+
+msgid "aktualisieren"
+msgstr ""
+
 msgid "Giro-Code"
 msgstr ""
 
 msgid "Nutze den Giro-Code, um die Überweisungsdaten automatisch in deine Banking-App zu übernehmen."
+msgstr ""
+
+msgid "Muss mindestens 1 Monat sein."
 msgstr ""
 
 msgid "Buchungen"
