@@ -270,6 +270,9 @@ msgstr "IBAN"
 msgid "BIC"
 msgstr "BIC"
 
+msgid "Betrag"
+msgstr "Amount"
+
 msgid "Verwendungszweck"
 msgstr "Purpose/Intended use"
 

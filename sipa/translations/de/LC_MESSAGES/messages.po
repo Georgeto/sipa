@@ -263,6 +263,9 @@ msgstr ""
 msgid "BIC"
 msgstr ""
 
+msgid "Betrag"
+msgstr ""
+
 msgid "Verwendungszweck"
 msgstr ""
 
